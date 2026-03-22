@@ -1,0 +1,13 @@
+{
+	"variations": {
+		"default": {"source": "PipeCutscene.ogg"},
+		"Desert": {"source": "DesertPipeCutscene.ogg"},
+		"Snow": {"source": "SnowPipeCutscene.ogg"},
+		"Jungle": {"source": "JunglePipeCutscene.ogg"},
+		"Beach": {"source": "BeachPipeCutscene.mp3"},
+		"Garden": {"source": "GardenPipeCutscene.mp3"},
+		"Mountain": {"source": "MountainPipeCutscene.mp3"},
+		"Autumn": {"source": "AutumnPipeCutscene.mp3"},
+		"Pipeland": {"source": "PipelandPipeCutscene.mp3"}
+	}
+}

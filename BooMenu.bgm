@@ -1,0 +1,10 @@
+{
+	"Normal": {
+		"source": "BooMenu.ogg",
+		"loop": 4.792
+	},
+	"Hurry": {
+		"source": "BooMenu.ogg",
+		"loop": 4.792
+	}
+}

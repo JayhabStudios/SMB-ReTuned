@@ -1,0 +1,10 @@
+{
+	"Normal": {
+		"source": "GhostHouse.ogg",
+		"loop": 19.168
+	},
+	"Hurry": {
+		"source": "GhostHouseHurry.ogg",
+		"loop": 25.557
+	}
+}

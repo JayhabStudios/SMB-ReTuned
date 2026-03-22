@@ -1,0 +1,10 @@
+{
+	"Normal": {
+		"source": "Ending.ogg",
+		"loop": 0
+	},
+	"Hurry": {
+		"source": "Ending.ogg",
+		"loop": 0
+	}
+}
