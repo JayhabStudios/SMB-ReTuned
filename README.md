@@ -6,7 +6,7 @@ A resource pack for [Super Mario Bros. Remastered](https://github.com/JHDev2006/
 3. Run the game and activate the pack. That's it.
 ## About Configuration
 This project is a team effort. However, as anyone knows from working in group projects, disagreements happen *constantly*.  
-As a result of this, the tracks *Airship* and *Castle (Hurry Up!)* have two different version. Thankfully, in the upcoming 1.1 build, you will be able to choose between both versions. There's also the option to choose which track should play in the Coin Heaven bonus areas: *Bonus*, *Starman* or *Credits*.
+As a result of this, the tracks *Airship* and *Castle (Hurry Up!)* have two different versions. Thankfully, in the upcoming 1.1 build, you will be able to choose between both versions. There's also the option to choose which track should play in the Coin Heaven bonus areas: *Bonus*, *Starman* or *Credits*.
 ## Known Issues/Bugs
 - Currently, not every song is finished. Every track that has appeared in an official Mario game has been completed, but the tracks exclusive to this game have not.
 - The first release has no config file because SMB1R versions 1.0.2 and earlier have a bug where config files break for music, playing silence instead of the desired track.
