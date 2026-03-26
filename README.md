@@ -10,7 +10,7 @@ As a result of this, the tracks *Airship* and *Castle (Hurry Up!)* have two diff
 ## Known Issues/Bugs
 - Currently, not every song is finished. Every track that has appeared in an official Mario game has been completed, but the tracks exclusive to this game have not.
 - The first release has no config file because SMB1R versions 1.0.2 and earlier have a bug where config files break for music, playing silence instead of the desired track.
-- Five tracks in the OST -- *Game Over*, *Challenge Failed*, *Achievements*, *Perfect Coin Heaven* and *Credits* -- have a bug also in versions 1.0.2 and earlier where they can *only* be loaded into the game as MP3s. This is a problem because the audio files in this resource pack are OGGs, meaning that if the filetype were to change, the original MP3 would play instead.
+- Five tracks in the OST -- *Game Over*, *Challenge Failed*, *Achievements*, *Perfect Coin Heaven* and *Credits* -- have a bug also in versions 1.0.2 and earlier where they can *only* be loaded into the game as MP3s. This is a problem because the audio files in this resource pack are OGGs, meaning that when the game looks for the song, it only checks for a "Song.mp3," the check fails and the original MP3 plays instead.
 ## Credits
 JayhabStudios  
 SaiN163  
@@ -22,6 +22,7 @@ furbynerd76gmd
 lamon  
 amer  
 FJ  
+  
 Note: The names shown here are what each member has chosen to go by, and therefore may not be reflective of their actual usernames.
 ## Special Thanks
 JoeMama -- for making Super Mario Bros. Remastered  
