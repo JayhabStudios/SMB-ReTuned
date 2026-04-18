@@ -24,7 +24,28 @@ amer
 FJ  
   
 Note: The names shown here are what each member has chosen to go by, and therefore may not be reflective of their actual usernames.
-## Special Thanks
+## Special Thanks  
 JoeMama -- for making Super Mario Bros. Remastered  
-amer, Blindspuut, LeviR.star & HDTV -- for composing the SMB1R OST  
-...and the members of the SMB1R Discord server
+amer, HDTV, Blindspuut & LeviR.star -- for composing the SMB1R soundtrack  
+MadioTime -- for helping with the Pipe Cutscene tracks  
+
+*and...*  
+KappiKoopa  
+Static Yeen  
+johued1  
+Smoke-le-Bloke  
+carlo  
+Borked Emerald  
+Lood  
+SkyanUltra  
+katherinecode  
+Sam  
+crab  
+Cherri Berri  
+Gobbles the Learnosaurus  
+bunness  
+SabakiSabaku  
+Aquacycle  
+Pedr01gb  
+DatFunkyOne  
+and many others! ...for showing their devotion to and appreciation for this project
