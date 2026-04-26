@@ -30,22 +30,21 @@ amer, HDTV, Blindspuut & LeviR.star -- for composing the SMB1R soundtrack
 MadioTime -- for helping with the Pipe Cutscene tracks  
 
 *and...*  
-KappiKoopa  
-Static Yeen  
-johued1  
-Smoke-le-Bloke  
-carlo  
-Borked Emerald  
-Lood  
-SkyanUltra  
-katherinecode  
-Sam  
-crab  
-Cherri Berri  
-Gobbles the Learnosaurus  
-bunness  
-SabakiSabaku  
 Aquacycle  
-Pedr01gb  
+Borked Emerald  
+bunness  
+carlo  
+Cherri Berri  
+crab  
 DatFunkyOne  
+Gobbles the Learnosaurus  
+KappiKoopa  
+katherinecode  
+Lood  
+Pedr01gb  
+SabakiSabaku  
+Sam  
+SkyanUltra  
+Smoke-le-Bloke  
+Static Yeen  
 and many others! ...for showing their devotion to and appreciation for this project
