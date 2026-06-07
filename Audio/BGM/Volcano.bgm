@@ -1,0 +1,10 @@
+{
+	"Normal": {
+		"source": "Volcano.ogg",
+		"loop": 3.727
+	},
+	"Hurry": {
+		"source": "VolcanoHurry.ogg",
+		"loop": 3.194
+	}
+}

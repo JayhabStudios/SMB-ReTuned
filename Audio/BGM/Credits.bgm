@@ -1,0 +1,10 @@
+{
+	"Normal": {
+		"source": "Credits.ogg",
+		"loop": 6.389
+	},
+	"Hurry": {
+		"source": "Credits.ogg",
+		"loop": 6.389
+	}
+}

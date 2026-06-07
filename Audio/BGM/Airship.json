@@ -1,1 +1,8 @@
-{"variations": {"source": "Airship.bgm"}}
+{
+	"variations": {
+		"config:Airship BGM": {
+			"Default": {"source": "AirshipA.bgm"},
+			"Alternate": {"source": "AirshipB.bgm"}
+		}
+	}
+}

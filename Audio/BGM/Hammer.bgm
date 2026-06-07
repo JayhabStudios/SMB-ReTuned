@@ -1,10 +1,10 @@
 {
 	"Normal": {
-		"source": "Wing.ogg",
+		"source": "Hammer.ogg",
 		"loop": 0
 	},
 	"Hurry": {
-		"source": "WingHurry.ogg",
+		"source": "HammerHurry.ogg",
 		"loop": 0
 	}
 }

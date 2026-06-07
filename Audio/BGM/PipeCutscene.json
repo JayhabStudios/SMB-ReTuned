@@ -4,10 +4,10 @@
 		"Desert": {"source": "DesertPipeCutscene.ogg"},
 		"Snow": {"source": "SnowPipeCutscene.ogg"},
 		"Jungle": {"source": "JunglePipeCutscene.ogg"},
-		"Beach": {"source": "BeachPipeCutscene.mp3"},
-		"Garden": {"source": "GardenPipeCutscene.mp3"},
-		"Mountain": {"source": "MountainPipeCutscene.mp3"},
-		"Autumn": {"source": "AutumnPipeCutscene.mp3"},
-		"Pipeland": {"source": "PipelandPipeCutscene.mp3"}
+		"Beach": {"source": "BeachPipeCutscene.ogg"},
+		"Garden": {"source": "GardenPipeCutscene.ogg"},
+		"Mountain": {"source": "MountainPipeCutscene.ogg"},
+		"Autumn": {"source": "AutumnPipeCutscene.ogg"},
+		"Pipeland": {"source": "PipelandPipeCutscene.ogg"}
 	}
 }

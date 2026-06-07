@@ -1,1 +1,8 @@
-{"variations": {"source": "Castle.bgm"}}
+{
+	"variations": {
+		"config:Castle Hurry BGM": {
+			"Default": {"source": "CastleA.bgm"},
+			"Alternate": {"source": "CastleB.bgm"}
+		}
+	}
+}

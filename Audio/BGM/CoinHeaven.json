@@ -1,1 +1,9 @@
-{"variations": {"source": "Bonus.bgm"}}
+{
+	"variations": {
+		"config:Coin Heaven BGM": {
+			"Bonus": {"source": "Bonus.bgm"},
+			"Starman": {"source": "Starman.bgm"},
+			"Credits": {"source": "Credits.bgm"}
+		}
+	}
+}

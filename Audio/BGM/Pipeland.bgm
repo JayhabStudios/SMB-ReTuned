@@ -1,0 +1,10 @@
+{
+	"Normal": {
+		"source": "Pipeland.ogg",
+		"loop": 0
+	},
+	"Hurry": {
+		"source": "PipelandHurry.ogg",
+		"loop": 0
+	}
+}
