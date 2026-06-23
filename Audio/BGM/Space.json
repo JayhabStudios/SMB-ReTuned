@@ -1,1 +1,8 @@
-{"variations": {"source": "Space.bgm"}}
+{
+	"variations": {
+		"config:Space Hurry BGM": {
+			"Default": {"source": "SpaceA.bgm"},
+			"Alternate": {"source": "SpaceB.bgm"}
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"Normal": {
+		"source": "Space.ogg",
+		"loop": 0
+	},
+	"Hurry": {
+		"source": "SpaceHurryA.ogg",
+		"loop": 0
+	}
+}

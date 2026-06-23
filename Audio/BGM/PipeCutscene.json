@@ -8,6 +8,6 @@
 		"Garden": {"source": "GardenPipeCutscene.ogg"},
 		"Mountain": {"source": "MountainPipeCutscene.ogg"},
 		"Autumn": {"source": "AutumnPipeCutscene.ogg"},
-		"Pipeland": {"source": "PipelandPipeCutscene.ogg"}
+		"Pipeland": {"source": "PipeLandPipeCutscene.ogg"}
 	}
 }
