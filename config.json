@@ -1,15 +1,20 @@
 {
 	"options": {
+		"Airship BGM": "Default",
 		"Castle Hurry BGM": "Default",
-		"Airship BGM": "Alternate",
+		"Space Hurry BGM": "Default",
 		"Coin Heaven BGM": "Bonus"
 	},
 	"value_keys": {
+		"Airship BGM": [
+			"Default",
+			"Alternate"
+		],
 		"Castle Hurry BGM": [
 			"Default",
 			"Alternate"
 		],
-		"Airship BGM": [
+		"Space Hurry BGM": [
 			"Default",
 			"Alternate"
 		],

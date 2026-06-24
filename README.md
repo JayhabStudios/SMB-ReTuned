@@ -2,18 +2,17 @@
 A resource pack for [Super Mario Bros. Remastered](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) that aims to rearrange the SMB1R soundtrack in FamiStudio using the N163 expansion chip.
 
 ## How to Install
-1. Select the most recent release (or compile it yourself, ya shmuck) and download the ZIP
-2. Unzip the file into C:\Users\\*YourName*\AppData\SMB1R\resource_packs
-3. Run the game and activate the pack. That's it.
+1. Select the most recent release and download the ZIP
+2. Unzip the file into the resource_packs folder
+3. Run the game and activate the pack
 
 ## About Configuration
-This project is a team effort. However, as anyone knows from working in group projects, disagreements happen *constantly*.  
-As a result of this, the tracks *Airship* and *Castle (Hurry Up!)* have two different versions. Thankfully, in the upcoming 1.1 build, you will be able to choose between both versions. There's also the option to choose which track should play in the Coin Heaven bonus areas: *Bonus*, *Starman* or *Credits*.
+This project is a team effort. And as anyone knows from working in team projects, disagreements happen *constantly*.  
+As a result, the tracks *Airship*, *Castle (Hurry)* and *Space (Hurry)* have two different versions. Thankfully, both versions of these tracks are included in this pack, allowin ou to choose between them. There's also the option to choose which track should play in the Coin Heaven bonus areas: *Bonus*, *Starman* or *Credits*.
 
 ## Known Issues/Bugs
-- Currently, not every song is finished. Every track that has appeared in an official Mario game has been completed, but the tracks exclusive to this game have not.
-- The first release has no config file because SMB1R versions 1.0.2 and earlier have a bug where config files break for music, playing silence instead of the desired track.
-- Five tracks in the soundtrack — *Game Over*, *Challenge Failed*, *Achievements*, *Perfect Coin Heaven* and *Credits* — have a bug also in versions 1.0.2 and earlier where they can *only* be loaded into the game as MP3s. This is a problem because the audio files in this resource pack are OGGs, meaning that when the game looks for the song, it only checks for a "Song.mp3," the check fails and the original MP3 plays instead.
+- Versions 1.0.2 and earlier have a bug where configs don't work for music, playing silence in place of the intended track.
+- Six tracks in the soundtrack — *Hurry Up*, *Game Over*, *Challenge Fail*, *Achievements*, *Perfect Coin Heaven* and *Credits* — have a bug also in versions 1.0.2 and earlier where they can only be loaded into the game as MP3s. This is a problem because the audio files in this resource pack are OGGs, which means that they won't load and the game will play the original MP3s instead.
 
 ## Credits  
 ```
