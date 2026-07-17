@@ -17,16 +17,16 @@ As a result, the tracks *Airship*, *Castle (Hurry)* and *Space (Hurry)* have two
 ## Credits  
 ```
 JayhabStudios   Arda
-SaiN163         furbynerd76gmd
+SaiN163         Furbynerd76gmd
 LagMage         lamon
-sl3DZ           amer
+sl3DZ           amer241
 Kusanagi_Sans   FJ
 ```
 Note: The names shown here are what each member has chosen to go by, and therefore may not be reflective of their actual usernames on any social media platform.
 
 ## Special Thanks  
 JoeMama for making Super Mario Bros. Remastered  
-amer, HDTV, Blindspuut and LeviR.star for composing the SMB1R soundtrack  
+amer241, Blindspuut, LeviR.star and hdtv for composing the SMB1R soundtrack  
 MadioTime for helping with the Pipe Cutscene tracks  
   
 Additional thanks to
