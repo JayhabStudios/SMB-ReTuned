@@ -1,13 +1,29 @@
 {
 	"variations": {
-		"default": {"source": "PipeCutscene.ogg"},
+		"default": {"link": "Overworld"},
+		"Overworld": {"source": "PipeCutscene.ogg"},
+		"Skyland": {"source": "AthleticPipeCutscene.ogg"},
+		"Underground": {"source": "UndergroundPipeCutscene.ogg"},
+		"Underwater": {"source": "UnderwaterPipeCutscene.ogg"},
+		"Jungle": {"source": "JunglePipeCutscene.ogg"},
 		"Desert": {"source": "DesertPipeCutscene.ogg"},
 		"Snow": {"source": "SnowPipeCutscene.ogg"},
-		"Jungle": {"source": "JunglePipeCutscene.ogg"},
+		"Castle": {"source": "CastlePipeCutscene.ogg"},
+		"CastleWater": {"link": "Underwater"},
+		"GhostHouse": {"source": "GhostHousePipeCutscene.ogg"},
+		"Bonus": {"source": "BonusPipeCutscene.ogg"},
+		"Autumn": {"source": "AutumnPipeCutscene.ogg"},
 		"Beach": {"source": "BeachPipeCutscene.ogg"},
 		"Garden": {"source": "GardenPipeCutscene.ogg"},
 		"Mountain": {"source": "MountainPipeCutscene.ogg"},
-		"Autumn": {"source": "AutumnPipeCutscene.ogg"},
-		"Pipeland": {"source": "PipeLandPipeCutscene.ogg"}
+		"Pipeland": {"source": "PipeLandPipeCutscene.ogg"},
+		"Volcano": {"source": "VolcanoPipeCutscene.ogg"},
+		"Space": {"source": "SpacePipeCutscene.ogg"},
+		"Airship": {
+			"config:Airship BGM": {
+				"Default": {"source": "AirshipPipeCutsceneA.ogg"},
+				"Alternate": {"source": "AirshipPipeCutsceneB.ogg"}
+			}
+		}
 	}
 }

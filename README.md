@@ -3,16 +3,15 @@ A resource pack for [Super Mario Bros. Remastered](https://github.com/JHDev2006/
 
 ## How to Install
 1. Select the most recent release and download the ZIP
-2. Unzip the file into the resource_packs folder
+2. Unzip the file into the *resource_packs* folder
 3. Run the game and activate the pack
 
 ## About Configuration
-This project is a team effort. And as anyone knows from working in team projects, disagreements happen *constantly*.  
-As a result, the tracks *Airship*, *Castle (Hurry)* and *Space (Hurry)* have two different versions. Thankfully, both versions of these tracks are included in this pack, allowin ou to choose between them. There's also the option to choose which track should play in the Coin Heaven bonus areas: *Bonus*, *Starman* or *Credits*.
+This project is a team effort. And as anyone knows from working in group projects, disagreements happen *constantly*.  
+As a result, the tracks **Airship**, **Castle (Hurry Up!)** and **Space (Hurry Up!)** have two different versions. Thankfully, both versions of these tracks are included in this pack, allowing you to choose between them. You also have the option to choose which track should play in the Coin Heaven bonus areas: **Bonus**, **Starman** or **Credits**.
 
 ## Known Issues/Bugs
 - Versions 1.0.2 and earlier have a bug where configs don't work for music, playing silence in place of the intended track.
-- Six tracks in the soundtrack — *Hurry Up*, *Game Over*, *Challenge Fail*, *Achievements*, *Perfect Coin Heaven* and *Credits* — have a bug also in versions 1.0.2 and earlier where they can only be loaded into the game as MP3s. This is a problem because the audio files in this resource pack are OGGs, which means that they won't load and the game will play the original MP3s instead.
 
 ## Credits  
 ```

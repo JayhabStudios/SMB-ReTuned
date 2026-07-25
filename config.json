@@ -3,7 +3,7 @@
 		"Airship BGM": "Default",
 		"Castle Hurry BGM": "Default",
 		"Space Hurry BGM": "Default",
-		"Coin Heaven BGM": "Bonus"
+		"Coin Heaven BGM": "Credits"
 	},
 	"value_keys": {
 		"Airship BGM": [
